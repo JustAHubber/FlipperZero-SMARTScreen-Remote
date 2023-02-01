@@ -1,0 +1,98 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: power
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: D7 00 00 00
+# 
+name: home
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: D1 00 00 00
+# 
+name: ok
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: 9B 00 00 00
+# 
+name: up
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: 92 00 00 00
+# 
+name: down
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: D8 00 00 00
+# 
+name: left
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: 97 00 00 00
+# 
+name: right
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: 9F 00 00 00
+# 
+name: back
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: DC 00 00 00
+# 
+name: settings
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: C3 00 00 00
+# 
+name: source
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: D3 00 00 00
+# 
+name: pause
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: DB 00 00 00
+# 
+name: vol_dwn
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: 86 00 00 00
+# 
+name: mute
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: DF 00 00 00
+# 
+name: vol_up
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: 83 00 00 00
+# 
+name: whiteboard
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: 8B 00 00 00
+# 
+name: wireless
+type: parsed
+protocol: NEC
+address: F7 00 00 00
+command: A3 00 00 00
