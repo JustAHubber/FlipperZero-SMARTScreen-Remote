@@ -3,4 +3,4 @@ Open your flipper's directory via an SD card reader or the qflipper application
 Put these files into the "infrared" folder as well as any child folders you desire
 On your flipper, locate these remotes and play around with the buttons
 
-The buttons should be pretty self explanatory apart from one called "wireless" on the White remote which is OPS but I don't know what that means.
+The buttons should be pretty self explanatory; The "wireless" and "OPS" are casting the display I believe.
